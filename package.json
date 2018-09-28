@@ -1,6 +1,7 @@
 {
   "name": "material-components-web-components",
   "private": true,
+  "version": "0.0.1",
   "description": "Material Components Web Components",
   "license": "Apache-2.0",
   "scripts": {
